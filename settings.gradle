@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+include ':Ch08_Event'
+include ':ch8_event'
+include ':prac'
+include ':ch8_eventt'
+include ':ch9_resource'
+include ':ch7_layout'
+include ':ch9_resource1'
+include ':Ch10_Notification'

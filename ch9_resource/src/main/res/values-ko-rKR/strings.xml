@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ch9_Resource</string>
+    <string name="intro_main">
+    권 시 경(Elie)
+    </string>
+    <string name="intro_detail">
+    The ocean doesn't get wet by rain.
+    </string>
+    <string name="intro_more">더 알아보기</string>
+    <string name="intro_button">지금 연결하기</string>
+    <string name="intro_delay">나중에 하기</string>
+</resources>
